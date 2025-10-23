@@ -44,7 +44,7 @@ export function SMSAlertButton({ alert }: SMSAlertButtonProps) {
 🌬️ Viento: ${alert.wind ?? 'N/A'} km/h
 💦 Humedad: ${alert.humidity ?? 'N/A'}%
 
-🛰️ Recomendación generada automáticamente por el sistema de monitoreo agrícola.
+🛰️ Recomendación generada automáticamente por el sistema de monitoreo agrícola Utz K’aslem .
     `
 
     // 🔹 Abrir WhatsApp
